@@ -1,0 +1,6987 @@
+fileFormatVersion: 2
+guid: 08b7900756710415fb8d83d717eda6f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8443618352236624777
+    second: m&k_inputs_0
+  - first:
+      213: -7311628557360083346
+    second: m&k_inputs_1
+  - first:
+      213: 6080031872959313895
+    second: m&k_inputs_2
+  - first:
+      213: -5904378311956309168
+    second: m&k_inputs_3
+  - first:
+      213: -2293298813872063169
+    second: m&k_inputs_4
+  - first:
+      213: 6629914151022126186
+    second: m&k_inputs_5
+  - first:
+      213: -5839243156639647731
+    second: m&k_inputs_6
+  - first:
+      213: 4138337534832650784
+    second: m&k_inputs_7
+  - first:
+      213: 5958282269636381081
+    second: m&k_inputs_8
+  - first:
+      213: 6225820877326952531
+    second: m&k_inputs_9
+  - first:
+      213: -2236397361448289662
+    second: m&k_inputs_10
+  - first:
+      213: -2603446155766853676
+    second: m&k_inputs_11
+  - first:
+      213: -7047513172501665828
+    second: m&k_inputs_12
+  - first:
+      213: -5063888340171079126
+    second: m&k_inputs_13
+  - first:
+      213: -6587321395383590538
+    second: m&k_inputs_14
+  - first:
+      213: 3993363205872518812
+    second: m&k_inputs_15
+  - first:
+      213: 6701540025403520516
+    second: m&k_inputs_16
+  - first:
+      213: -1491779150710195412
+    second: m&k_inputs_17
+  - first:
+      213: -5558376710590078688
+    second: m&k_inputs_18
+  - first:
+      213: -4673637657957453930
+    second: m&k_inputs_19
+  - first:
+      213: 9059942749501384461
+    second: m&k_inputs_20
+  - first:
+      213: 2511963305021661621
+    second: m&k_inputs_21
+  - first:
+      213: -3928254226772460400
+    second: m&k_inputs_22
+  - first:
+      213: 8201290589330550461
+    second: m&k_inputs_23
+  - first:
+      213: -72477126444810737
+    second: m&k_inputs_24
+  - first:
+      213: 2705752569606744055
+    second: m&k_inputs_25
+  - first:
+      213: -8798786991773862471
+    second: m&k_inputs_26
+  - first:
+      213: 5592411429620125981
+    second: m&k_inputs_27
+  - first:
+      213: 2803510391555313722
+    second: m&k_inputs_28
+  - first:
+      213: 2777097825078708714
+    second: m&k_inputs_29
+  - first:
+      213: -4820595873009565252
+    second: m&k_inputs_30
+  - first:
+      213: -6845780275762712596
+    second: m&k_inputs_31
+  - first:
+      213: -2142398275758728291
+    second: m&k_inputs_32
+  - first:
+      213: 8776508254963515439
+    second: m&k_inputs_33
+  - first:
+      213: -5952206030038537351
+    second: m&k_inputs_34
+  - first:
+      213: -348740059689908911
+    second: m&k_inputs_35
+  - first:
+      213: 8552428771330565593
+    second: m&k_inputs_36
+  - first:
+      213: 6057413941961232383
+    second: m&k_inputs_37
+  - first:
+      213: -3511576184272498033
+    second: m&k_inputs_38
+  - first:
+      213: 3629859559511052928
+    second: m&k_inputs_39
+  - first:
+      213: -3024555114197804972
+    second: m&k_inputs_40
+  - first:
+      213: 4029385595536727144
+    second: m&k_inputs_41
+  - first:
+      213: -5399280522483077976
+    second: m&k_inputs_42
+  - first:
+      213: -2739325543532889074
+    second: m&k_inputs_43
+  - first:
+      213: 7414797008711436165
+    second: m&k_inputs_44
+  - first:
+      213: 8755701131908538300
+    second: m&k_inputs_45
+  - first:
+      213: -4048324203344745213
+    second: m&k_inputs_46
+  - first:
+      213: -4309362065905846606
+    second: m&k_inputs_47
+  - first:
+      213: 1467906241567153004
+    second: m&k_inputs_48
+  - first:
+      213: 5911218245753041388
+    second: m&k_inputs_49
+  - first:
+      213: -4916321274337691925
+    second: m&k_inputs_50
+  - first:
+      213: -4741814665483626657
+    second: m&k_inputs_51
+  - first:
+      213: 1807000087436569026
+    second: m&k_inputs_52
+  - first:
+      213: -2364556955776473154
+    second: m&k_inputs_53
+  - first:
+      213: 4769292071867293533
+    second: m&k_inputs_54
+  - first:
+      213: -4216434967149161907
+    second: m&k_inputs_55
+  - first:
+      213: -4940582179740786653
+    second: m&k_inputs_56
+  - first:
+      213: 5326685599796207819
+    second: m&k_inputs_57
+  - first:
+      213: 8055280100618652160
+    second: m&k_inputs_58
+  - first:
+      213: 8512498389703698775
+    second: m&k_inputs_59
+  - first:
+      213: 6235663448750624336
+    second: m&k_inputs_60
+  - first:
+      213: 6210550965031202003
+    second: m&k_inputs_61
+  - first:
+      213: -6923475257681884838
+    second: m&k_inputs_62
+  - first:
+      213: -7586154465930972990
+    second: m&k_inputs_63
+  - first:
+      213: 3239271112395405658
+    second: m&k_inputs_64
+  - first:
+      213: 6129146164342041443
+    second: m&k_inputs_65
+  - first:
+      213: -6379023732015105735
+    second: m&k_inputs_66
+  - first:
+      213: 3076166327855054626
+    second: m&k_inputs_67
+  - first:
+      213: -2617543496066346262
+    second: m&k_inputs_68
+  - first:
+      213: -6582533823527766315
+    second: m&k_inputs_69
+  - first:
+      213: -4204489371826085297
+    second: m&k_inputs_70
+  - first:
+      213: 6409312832660588658
+    second: m&k_inputs_71
+  - first:
+      213: 4797429451988502419
+    second: m&k_inputs_72
+  - first:
+      213: -8526357488611385006
+    second: m&k_inputs_73
+  - first:
+      213: 191732055452345046
+    second: m&k_inputs_74
+  - first:
+      213: -3774367735549156638
+    second: m&k_inputs_75
+  - first:
+      213: -3772462242050078238
+    second: m&k_inputs_76
+  - first:
+      213: 8216332361843090377
+    second: m&k_inputs_77
+  - first:
+      213: -5887351216712142695
+    second: m&k_inputs_78
+  - first:
+      213: -2125365463885577131
+    second: m&k_inputs_79
+  - first:
+      213: 4627254735988097176
+    second: m&k_inputs_80
+  - first:
+      213: 7651957730652944250
+    second: m&k_inputs_81
+  - first:
+      213: 2780898290510648650
+    second: m&k_inputs_82
+  - first:
+      213: 7138214655287288383
+    second: m&k_inputs_83
+  - first:
+      213: 5567002111812184297
+    second: m&k_inputs_84
+  - first:
+      213: -6431155040888701532
+    second: m&k_inputs_85
+  - first:
+      213: -7768963519265125785
+    second: m&k_inputs_86
+  - first:
+      213: 8418742353746674589
+    second: m&k_inputs_87
+  - first:
+      213: -7293144337236826489
+    second: m&k_inputs_88
+  - first:
+      213: -459510291186179669
+    second: m&k_inputs_89
+  - first:
+      213: 3899056299533087844
+    second: m&k_inputs_90
+  - first:
+      213: 8780061904318423108
+    second: m&k_inputs_91
+  - first:
+      213: -4722257430094584759
+    second: m&k_inputs_92
+  - first:
+      213: 692302338749317885
+    second: m&k_inputs_93
+  - first:
+      213: -4241385507916481867
+    second: m&k_inputs_94
+  - first:
+      213: 6172532224254742686
+    second: m&k_inputs_95
+  - first:
+      213: 2075485427970265545
+    second: m&k_inputs_96
+  - first:
+      213: 2981312418595331158
+    second: m&k_inputs_97
+  - first:
+      213: -7565292173526417949
+    second: m&k_inputs_98
+  - first:
+      213: -8837252897479253275
+    second: m&k_inputs_99
+  - first:
+      213: 3643738497910289044
+    second: m&k_inputs_100
+  - first:
+      213: 4667483596117876023
+    second: m&k_inputs_101
+  - first:
+      213: 3851408532378304192
+    second: m&k_inputs_102
+  - first:
+      213: -6275224287260562444
+    second: m&k_inputs_103
+  - first:
+      213: 4086305704009348786
+    second: m&k_inputs_104
+  - first:
+      213: -8943438694045579597
+    second: m&k_inputs_105
+  - first:
+      213: -6496969987050252783
+    second: m&k_inputs_106
+  - first:
+      213: -7661508726062289839
+    second: m&k_inputs_107
+  - first:
+      213: 3118417438963108049
+    second: m&k_inputs_108
+  - first:
+      213: -1959124841272256480
+    second: m&k_inputs_109
+  - first:
+      213: 1497948287605184609
+    second: m&k_inputs_110
+  - first:
+      213: -9189057513749494437
+    second: m&k_inputs_111
+  - first:
+      213: -6932531849397789242
+    second: m&k_inputs_112
+  - first:
+      213: 6644921021757665952
+    second: m&k_inputs_113
+  - first:
+      213: 4492937754969287751
+    second: m&k_inputs_114
+  - first:
+      213: 2051418601602751752
+    second: m&k_inputs_115
+  - first:
+      213: -892053271328748719
+    second: m&k_inputs_116
+  - first:
+      213: -1217805234916652832
+    second: m&k_inputs_117
+  - first:
+      213: -1610107002872423244
+    second: m&k_inputs_118
+  - first:
+      213: 9188781110123999772
+    second: m&k_inputs_119
+  - first:
+      213: -2665105143808008729
+    second: m&k_inputs_120
+  - first:
+      213: 5651374473998980365
+    second: m&k_inputs_121
+  - first:
+      213: 3179463288439398575
+    second: m&k_inputs_122
+  - first:
+      213: 8935770110936455697
+    second: m&k_inputs_123
+  - first:
+      213: 5873799078511607543
+    second: m&k_inputs_124
+  - first:
+      213: 1223608322760885192
+    second: m&k_inputs_125
+  - first:
+      213: -575919686471136797
+    second: m&k_inputs_126
+  - first:
+      213: -1342416273808539607
+    second: m&k_inputs_127
+  - first:
+      213: 4820259187431468657
+    second: m&k_inputs_128
+  - first:
+      213: 4502604169434126265
+    second: m&k_inputs_129
+  - first:
+      213: -3014006590273624069
+    second: m&k_inputs_130
+  - first:
+      213: -1582782572894002167
+    second: m&k_inputs_131
+  - first:
+      213: -4666177828034724828
+    second: m&k_inputs_132
+  - first:
+      213: 1351150426483528692
+    second: m&k_inputs_133
+  - first:
+      213: -5317384016000081581
+    second: m&k_inputs_134
+  - first:
+      213: 5953619027869132081
+    second: m&k_inputs_135
+  - first:
+      213: -1891449797880747545
+    second: m&k_inputs_136
+  - first:
+      213: -6755512704364468721
+    second: m&k_inputs_137
+  - first:
+      213: -1932248449043856074
+    second: m&k_inputs_138
+  - first:
+      213: 2976656646064775048
+    second: m&k_inputs_139
+  - first:
+      213: -2234667725828814671
+    second: m&k_inputs_140
+  - first:
+      213: -1821992953099753470
+    second: m&k_inputs_141
+  - first:
+      213: 327200937598075985
+    second: m&k_inputs_142
+  - first:
+      213: -5328868146963410201
+    second: m&k_inputs_143
+  - first:
+      213: -775245410154834066
+    second: m&k_inputs_144
+  - first:
+      213: 936952488976197385
+    second: m&k_inputs_145
+  - first:
+      213: 4407868980109900282
+    second: m&k_inputs_146
+  - first:
+      213: -6790500420675346591
+    second: m&k_inputs_147
+  - first:
+      213: 8014374503071299266
+    second: m&k_inputs_148
+  - first:
+      213: -1918475558861015328
+    second: m&k_inputs_149
+  - first:
+      213: -3096274340924029923
+    second: m&k_inputs_150
+  - first:
+      213: -3831389487821986391
+    second: m&k_inputs_151
+  - first:
+      213: -6985956651027601493
+    second: m&k_inputs_152
+  - first:
+      213: -1032318281691994329
+    second: m&k_inputs_153
+  - first:
+      213: 7720417572099009115
+    second: m&k_inputs_154
+  - first:
+      213: -2730012570317542535
+    second: m&k_inputs_155
+  - first:
+      213: -3446818229696842733
+    second: m&k_inputs_156
+  - first:
+      213: -3112756223955938305
+    second: m&k_inputs_157
+  - first:
+      213: -4854240493270632738
+    second: m&k_inputs_158
+  - first:
+      213: -3275148883901855217
+    second: m&k_inputs_159
+  - first:
+      213: -5347572179742782453
+    second: m&k_inputs_160
+  - first:
+      213: -5281808982271586571
+    second: m&k_inputs_161
+  - first:
+      213: -7217918570924357336
+    second: m&k_inputs_162
+  - first:
+      213: -7954970064379344051
+    second: m&k_inputs_163
+  - first:
+      213: 6153187619676391087
+    second: m&k_inputs_164
+  - first:
+      213: -4711822258585205441
+    second: m&k_inputs_165
+  - first:
+      213: 1484792869230959861
+    second: m&k_inputs_166
+  - first:
+      213: -7768275779065942709
+    second: m&k_inputs_167
+  - first:
+      213: 489465821083961790
+    second: m&k_inputs_168
+  - first:
+      213: -2542489320100211812
+    second: m&k_inputs_169
+  - first:
+      213: -3243581529218121962
+    second: m&k_inputs_170
+  - first:
+      213: 3696858426417794354
+    second: m&k_inputs_171
+  - first:
+      213: 3706371706863989634
+    second: m&k_inputs_172
+  - first:
+      213: -1765466208026172905
+    second: m&k_inputs_173
+  - first:
+      213: -5246385224066601506
+    second: m&k_inputs_174
+  - first:
+      213: 6097088364060625709
+    second: m&k_inputs_175
+  - first:
+      213: 8919831944408795327
+    second: m&k_inputs_176
+  - first:
+      213: -1655032322226523300
+    second: m&k_inputs_177
+  - first:
+      213: 6004823189987114348
+    second: m&k_inputs_178
+  - first:
+      213: -1526576896805015601
+    second: m&k_inputs_179
+  - first:
+      213: 4578060366554644020
+    second: m&k_inputs_180
+  - first:
+      213: 9046168276056531131
+    second: m&k_inputs_181
+  - first:
+      213: -8139268722261847404
+    second: m&k_inputs_182
+  - first:
+      213: 1216609256345650065
+    second: m&k_inputs_183
+  - first:
+      213: -4890561413726546486
+    second: m&k_inputs_184
+  - first:
+      213: -3240333882723308809
+    second: m&k_inputs_185
+  - first:
+      213: -1467796930237645235
+    second: m&k_inputs_186
+  - first:
+      213: -5084109819246088805
+    second: m&k_inputs_187
+  - first:
+      213: -2897121053456360515
+    second: m&k_inputs_188
+  - first:
+      213: -3415490497162095762
+    second: m&k_inputs_189
+  - first:
+      213: -5247516411960631099
+    second: m&k_inputs_190
+  - first:
+      213: 896646647015878781
+    second: m&k_inputs_191
+  - first:
+      213: 4598048255935272010
+    second: m&k_inputs_192
+  - first:
+      213: 3720877037060006467
+    second: m&k_inputs_193
+  - first:
+      213: 535365863215726633
+    second: m&k_inputs_194
+  - first:
+      213: 349406834672228563
+    second: m&k_inputs_195
+  - first:
+      213: -6607187132104477663
+    second: m&k_inputs_196
+  - first:
+      213: 7258205341123255851
+    second: m&k_inputs_197
+  - first:
+      213: 4093335822009478641
+    second: m&k_inputs_198
+  - first:
+      213: -2072137372191107593
+    second: m&k_inputs_199
+  - first:
+      213: -7353525833159225155
+    second: m&k_inputs_200
+  - first:
+      213: 4763186546648971593
+    second: m&k_inputs_201
+  - first:
+      213: 5766131371136273433
+    second: m&k_inputs_202
+  - first:
+      213: 8830733494886288130
+    second: m&k_inputs_203
+  - first:
+      213: -8192686440024110519
+    second: m&k_inputs_204
+  - first:
+      213: -1714149645400741533
+    second: m&k_inputs_205
+  - first:
+      213: 7844148834907509714
+    second: m&k_inputs_206
+  - first:
+      213: 8310271044543008627
+    second: m&k_inputs_207
+  - first:
+      213: -5205210368584578468
+    second: m&k_inputs_208
+  - first:
+      213: 5574135089487761072
+    second: m&k_inputs_209
+  - first:
+      213: -6787849075749616165
+    second: m&k_inputs_210
+  - first:
+      213: -5567645289300118391
+    second: m&k_inputs_211
+  - first:
+      213: 4361280169939197568
+    second: m&k_inputs_212
+  - first:
+      213: 3569045053616458535
+    second: m&k_inputs_213
+  - first:
+      213: -5211762625908220116
+    second: m&k_inputs_214
+  - first:
+      213: -5679442255214863743
+    second: m&k_inputs_215
+  - first:
+      213: -391699842235606800
+    second: m&k_inputs_216
+  - first:
+      213: -860337400699766998
+    second: m&k_inputs_217
+  - first:
+      213: 3401784256653688687
+    second: m&k_inputs_218
+  - first:
+      213: -8267020016286213531
+    second: m&k_inputs_219
+  - first:
+      213: 7783363763751620869
+    second: m&k_inputs_220
+  - first:
+      213: -4223922090675109660
+    second: m&k_inputs_221
+  - first:
+      213: 7222661598220475625
+    second: m&k_inputs_222
+  - first:
+      213: -1043510501160844932
+    second: m&k_inputs_223
+  - first:
+      213: 4978759541697602478
+    second: m&k_inputs_224
+  - first:
+      213: 343422292666904014
+    second: m&k_inputs_225
+  - first:
+      213: 2725965867954680460
+    second: m&k_inputs_226
+  - first:
+      213: 658352964136097802
+    second: m&k_inputs_227
+  - first:
+      213: 3357131627220302253
+    second: m&k_inputs_228
+  - first:
+      213: 5070225723896202854
+    second: m&k_inputs_229
+  - first:
+      213: 2762051371331670969
+    second: m&k_inputs_230
+  - first:
+      213: 7157937871991149828
+    second: m&k_inputs_231
+  - first:
+      213: -2930795249897932182
+    second: m&k_inputs_232
+  - first:
+      213: -2890952931068576651
+    second: m&k_inputs_233
+  - first:
+      213: 8305540649008830881
+    second: m&k_inputs_234
+  - first:
+      213: -6841698694839200251
+    second: m&k_inputs_235
+  - first:
+      213: 5070952492362376215
+    second: m&k_inputs_236
+  - first:
+      213: 8530372656739968169
+    second: m&k_inputs_237
+  - first:
+      213: -5210591644668687079
+    second: m&k_inputs_238
+  - first:
+      213: -3217591946449900396
+    second: m&k_inputs_239
+  - first:
+      213: -74345798133258139
+    second: m&k_inputs_240
+  - first:
+      213: -5946927845256559902
+    second: m&k_inputs_241
+  - first:
+      213: -5073711017808227525
+    second: m&k_inputs_242
+  - first:
+      213: -6012716728263770609
+    second: m&k_inputs_243
+  - first:
+      213: -4376322344605955408
+    second: m&k_inputs_244
+  - first:
+      213: 5705544222770660353
+    second: m&k_inputs_245
+  - first:
+      213: -4499960216408089107
+    second: m&k_inputs_246
+  - first:
+      213: 9140522986177856540
+    second: m&k_inputs_247
+  - first:
+      213: 2675343639302782600
+    second: m&k_inputs_248
+  - first:
+      213: 8236262650165233314
+    second: m&k_inputs_249
+  - first:
+      213: -7582409850418285490
+    second: m&k_inputs_250
+  - first:
+      213: 7883801827082013593
+    second: m&k_inputs_251
+  - first:
+      213: 8306479399253027061
+    second: m&k_inputs_252
+  - first:
+      213: 4602755226378530553
+    second: m&k_inputs_253
+  - first:
+      213: 2585446138294004886
+    second: m&k_inputs_254
+  - first:
+      213: -3228798659802226321
+    second: m&k_inputs_255
+  - first:
+      213: 3647128770370541316
+    second: m&k_inputs_256
+  - first:
+      213: 2771664950955819354
+    second: m&k_inputs_257
+  - first:
+      213: -4555897329430575896
+    second: m&k_inputs_258
+  - first:
+      213: 3331363741299955847
+    second: m&k_inputs_259
+  - first:
+      213: -7006497982615726158
+    second: m&k_inputs_260
+  - first:
+      213: -691144957475533417
+    second: m&k_inputs_261
+  - first:
+      213: -735535611515690696
+    second: m&k_inputs_262
+  - first:
+      213: 7820109826603572434
+    second: m&k_inputs_263
+  - first:
+      213: -308850762297101155
+    second: m&k_inputs_264
+  - first:
+      213: -7298019102639615602
+    second: m&k_inputs_265
+  - first:
+      213: -9219131726302249400
+    second: m&k_inputs_266
+  - first:
+      213: 5265549710793780637
+    second: m&k_inputs_267
+  - first:
+      213: 9085778261999205105
+    second: m&k_inputs_268
+  - first:
+      213: -3345692459573420469
+    second: m&k_inputs_269
+  - first:
+      213: 6849665946851299291
+    second: m&k_inputs_270
+  - first:
+      213: -6562302562067065745
+    second: m&k_inputs_271
+  - first:
+      213: 2741785798440143657
+    second: m&k_inputs_272
+  - first:
+      213: -2280422211776258008
+    second: m&k_inputs_273
+  - first:
+      213: -479778033316454858
+    second: m&k_inputs_274
+  - first:
+      213: -8813739660777763749
+    second: m&k_inputs_275
+  - first:
+      213: -370628398657062118
+    second: m&k_inputs_276
+  - first:
+      213: 1942063618828660652
+    second: m&k_inputs_277
+  - first:
+      213: -2707798237906417688
+    second: m&k_inputs_278
+  - first:
+      213: 6561262829213510545
+    second: m&k_inputs_279
+  - first:
+      213: -4430388667524603067
+    second: m&k_inputs_280
+  - first:
+      213: -1599712176649068338
+    second: m&k_inputs_281
+  - first:
+      213: -4685371096755612470
+    second: m&k_inputs_282
+  - first:
+      213: -1601362256497035222
+    second: m&k_inputs_283
+  - first:
+      213: -2288987405542517425
+    second: m&k_inputs_284
+  - first:
+      213: -3933706197733695136
+    second: m&k_inputs_285
+  - first:
+      213: 7356442113408221396
+    second: m&k_inputs_286
+  - first:
+      213: 9085353748848099442
+    second: m&k_inputs_287
+  - first:
+      213: -6855462233933487747
+    second: m&k_inputs_288
+  - first:
+      213: 6338007602684726288
+    second: m&k_inputs_289
+  - first:
+      213: -6012359775269906917
+    second: m&k_inputs_290
+  - first:
+      213: -8647325407273287247
+    second: m&k_inputs_291
+  - first:
+      213: -4611910790396263780
+    second: m&k_inputs_292
+  - first:
+      213: -1088211241055432967
+    second: m&k_inputs_293
+  - first:
+      213: 3039296319140277479
+    second: m&k_inputs_294
+  - first:
+      213: 2506396729470809847
+    second: m&k_inputs_295
+  - first:
+      213: -341465089092866348
+    second: m&k_inputs_296
+  - first:
+      213: 2925824070843638160
+    second: m&k_inputs_297
+  - first:
+      213: -591690187066946626
+    second: m&k_inputs_298
+  - first:
+      213: -5463806395434557026
+    second: m&k_inputs_299
+  - first:
+      213: -8545196763219442410
+    second: m&k_inputs_300
+  - first:
+      213: 3788109409213357722
+    second: m&k_inputs_301
+  - first:
+      213: 6375789569529461289
+    second: m&k_inputs_302
+  - first:
+      213: -48354330138866054
+    second: m&k_inputs_303
+  - first:
+      213: 6592381081263089863
+    second: m&k_inputs_304
+  - first:
+      213: -8315009028941265723
+    second: m&k_inputs_305
+  - first:
+      213: 6727556712096198127
+    second: m&k_inputs_306
+  - first:
+      213: -6583375175158359284
+    second: m&k_inputs_307
+  - first:
+      213: 720156620450502311
+    second: m&k_inputs_308
+  - first:
+      213: 1588348566507377903
+    second: m&k_inputs_309
+  - first:
+      213: 612563237225075023
+    second: m&k_inputs_310
+  - first:
+      213: 5867782419065811826
+    second: m&k_inputs_311
+  - first:
+      213: 2267125658666181760
+    second: m&k_inputs_312
+  - first:
+      213: -1551952543673700230
+    second: m&k_inputs_313
+  - first:
+      213: -3247205468201406501
+    second: m&k_inputs_314
+  - first:
+      213: 5516101175351719727
+    second: m&k_inputs_315
+  - first:
+      213: -7335220708373953000
+    second: m&k_inputs_316
+  - first:
+      213: -7026787050841887474
+    second: m&k_inputs_317
+  - first:
+      213: -8438003534851178681
+    second: m&k_inputs_318
+  - first:
+      213: 13358697977205103
+    second: m&k_inputs_319
+  - first:
+      213: -5491742122850789291
+    second: m&k_inputs_320
+  - first:
+      213: 3034228984002825637
+    second: m&k_inputs_321
+  - first:
+      213: 1683032623370399983
+    second: m&k_inputs_322
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: m&k_inputs_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77487f748dd32da80800000000000000
+      internalID: -8443618352236624777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e43f4d090e78a90800000000000000
+      internalID: -7311628557360083346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7faca66cc906450800000000000000
+      internalID: 6080031872959313895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bd250453f6f0ea0800000000000000
+      internalID: -5904378311956309168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3db45311e09c20e0800000000000000
+      internalID: -2293298813872063169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6462072bcf220c50800000000000000
+      internalID: 6629914151022126186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08fc536947d6fea0800000000000000
+      internalID: -5839243156639647731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02aad54ef045e6930800000000000000
+      internalID: 4138337534832650784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9994f29e72210b250800000000000000
+      internalID: 5958282269636381081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358a8442a1f866650800000000000000
+      internalID: 6225820877326952531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28af04ed278b6f0e0800000000000000
+      internalID: -2236397361448289662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df09a5d383bedbd0800000000000000
+      internalID: -2603446155766853676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7e623eb14323e90800000000000000
+      internalID: -7047513172501665828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a224cdd526479b9b0800000000000000
+      internalID: -5063888340171079126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671a4de87122594a0800000000000000
+      internalID: -6587321395383590538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9685219da64b6730800000000000000
+      internalID: 3993363205872518812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4063d369527a00d50800000000000000
+      internalID: 6701540025403520516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bb59624c22c4be0800000000000000
+      internalID: -1491779150710195412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021697dc4ddacd2b0800000000000000
+      internalID: -5558376710590078688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fae84ef47e32fb0800000000000000
+      internalID: -4673637657957453930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07e765dde16bbd70800000000000000
+      internalID: 9059942749501384461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1e1a421594cd220800000000000000
+      internalID: 2511963305021661621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cfcc1f7990c79c0800000000000000
+      internalID: -3928254226772460400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe2dc4b656d0d170800000000000000
+      internalID: 8201290589330550461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_24
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e7aefff628efef0800000000000000
+      internalID: -72477126444810737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_25
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7a28950a3cc8520800000000000000
+      internalID: 2705752569606744055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5bdf459dd64e580800000000000000
+      internalID: -8798786991773862471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_27
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11975cb09c3c9d40800000000000000
+      internalID: 5592411429620125981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3055c4f8d118e620800000000000000
+      internalID: 2803510391555313722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_29
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9835a12cb3a8620800000000000000
+      internalID: 2777097825078708714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_30
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb10d87189dc91db0800000000000000
+      internalID: -4820595873009565252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_31
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefa9c41c17eef0a0800000000000000
+      internalID: -6845780275762712596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bddfd7e1ca442e0800000000000000
+      internalID: -2142398275758728291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20426902cb6cc970800000000000000
+      internalID: 8776508254963515439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b6d9dd624856da0800000000000000
+      internalID: -5952206030038537351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1550c3f63c6092bf0800000000000000
+      internalID: -348740059689908911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d52df1a7a450b670800000000000000
+      internalID: 8552428771330565593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff091cf2e1401450800000000000000
+      internalID: 6057413941961232383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8257b6c010644fc0800000000000000
+      internalID: -3511576184272498033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082563d990adf5230800000000000000
+      internalID: 3629859559511052928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_40
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45816aef52f9606d0800000000000000
+      internalID: -3024555114197804972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_41
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cda0db9d04be730800000000000000
+      internalID: 4029385595536727144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_42
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ace5bea8f6e115b0800000000000000
+      internalID: -5399280522483077976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_43
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c71958ee5fbf9d0800000000000000
+      internalID: -2739325543532889074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_44
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587cfd91896a6e660800000000000000
+      internalID: 7414797008711436165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_45
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfd4ee2acf728970800000000000000
+      internalID: 8755701131908538300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_46
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d2504069671d7c0800000000000000
+      internalID: -4048324203344745213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_47
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6732578021234c0800000000000000
+      internalID: -4309362065905846606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b503c03fc0f5410800000000000000
+      internalID: 1467906241567153004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1faefecadd80250800000000000000
+      internalID: 5911218245753041388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6f76949d7b5cbb0800000000000000
+      internalID: -4916321274337691925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f575c195fa0b13eb0800000000000000
+      internalID: -4741814665483626657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9a1c07101c31910800000000000000
+      internalID: 1807000087436569026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7a3c70af76f2fd0800000000000000
+      internalID: -2364556955776473154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f9cbddeddef2240800000000000000
+      internalID: 4769292071867293533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_55
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42d98cacb63c75c0800000000000000
+      internalID: -4216434967149161907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_56
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320ece01fa68f6bb0800000000000000
+      internalID: -4940582179740786653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_57
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0aa0eb4503ce940800000000000000
+      internalID: 5326685599796207819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ac5a3a29a1acf60800000000000000
+      internalID: 8055280100618652160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_59
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759af5d2f28722670800000000000000
+      internalID: 8512498389703698775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_60
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e0ba16ed6898650800000000000000
+      internalID: 6235663448750624336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_61
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dce422a23f403650800000000000000
+      internalID: 6210550965031202003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_62
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a594aae6fefdaef90800000000000000
+      internalID: -6923475257681884838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_63
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0f0f6d4b098b690800000000000000
+      internalID: -7586154465930972990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5933811ae334fc20800000000000000
+      internalID: 3239271112395405658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_65
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b2e0e76f91f0550800000000000000
+      internalID: 6129146164342041443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_66
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939f37796b72977a0800000000000000
+      internalID: -6379023732015105735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_67
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f71d91afcb0ba20800000000000000
+      internalID: 3076166327855054626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2d4d40f0e9cabd0800000000000000
+      internalID: -2617543496066346262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_69
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d632aefc5426a4a0800000000000000
+      internalID: -6582533823527766315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_70
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42a6625137a6a5c0800000000000000
+      internalID: -4204489371826085297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_71
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2784615301472f850800000000000000
+      internalID: 6409312832660588658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_72
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39785c03ba4e39240800000000000000
+      internalID: 4797429451988502419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_73
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251a357e90b4ca980800000000000000
+      internalID: -8526357488611385006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_74
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2ea41e94b29a200800000000000000
+      internalID: 191732055452345046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_75
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2a5eeba80ce9bc0800000000000000
+      internalID: -3774367735549156638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_76
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e90806049585abc0800000000000000
+      internalID: -3772462242050078238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_77
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3243840c6460270800000000000000
+      internalID: 8216332361843090377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_78
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990b8ebc24deb4ea0800000000000000
+      internalID: -5887351216712142695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_79
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554873b0f5f2182e0800000000000000
+      internalID: -2125365463885577131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89080d78aaf473040800000000000000
+      internalID: 4627254735988097176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_81
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a777fd3a307313a60800000000000000
+      internalID: 7651957730652944250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45d06ae24cb79620800000000000000
+      internalID: 2780898290510648650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32e2eab868001360800000000000000
+      internalID: 7138214655287288383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_84
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e82a6aece6f14d40800000000000000
+      internalID: 5567002111812184297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_85
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4adbd546092ffb6a0800000000000000
+      internalID: -6431155040888701532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_86
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76acb3947d81f2490800000000000000
+      internalID: -7768963519265125785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_87
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d934b9af09165d470800000000000000
+      internalID: 8418742353746674589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_88
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786e853bddb89ca90800000000000000
+      internalID: -7293144337236826489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_89
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1263323dd7f99f0800000000000000
+      internalID: -459510291186179669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_90
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4643becdb0b3c1630800000000000000
+      internalID: 3899056299533087844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_91
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440e6d088cb09d970800000000000000
+      internalID: 8780061904318423108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_92
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944634d03eb277eb0800000000000000
+      internalID: -4722257430094584759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_93
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df243522f4d8b9900800000000000000
+      internalID: 692302338749317885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_94
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5baf5253a529325c0800000000000000
+      internalID: -4241385507916481867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_95
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e901b5fba5d39a550800000000000000
+      internalID: 6172532224254742686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1daa6100b9dcc10800000000000000
+      internalID: 2075485427970265545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cd5da59dfbf5920800000000000000
+      internalID: 2981312418595331158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed3aeec9dea20790800000000000000
+      internalID: -7565292173526417949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2257fbf45cb5580800000000000000
+      internalID: -8837252897479253275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492bb56cbd8219230800000000000000
+      internalID: 3643738497910289044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d919de99b36c040800000000000000
+      internalID: 4667483596117876023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_102
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce315197a3f27530800000000000000
+      internalID: 3851408532378304192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_103
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb2eef12cce9e8a0800000000000000
+      internalID: -6275224287260562444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_104
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6312b336975b830800000000000000
+      internalID: 4086305704009348786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_105
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b60ee264e582e380800000000000000
+      internalID: -8943438694045579597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_106
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116de7d183026d5a0800000000000000
+      internalID: -6496969987050252783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_107
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c6083f76adca590800000000000000
+      internalID: -7661508726062289839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_108
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d887ce7328d64b20800000000000000
+      internalID: 3118417438963108049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_109
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028d255365acfc4e0800000000000000
+      internalID: -1959124841272256480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_110
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1689c96f708c9c410800000000000000
+      internalID: 1497948287605184609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_111
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55c35080e8e97080800000000000000
+      internalID: -9189057513749494437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd109a5303bacf90800000000000000
+      internalID: -6932531849397789242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_113
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a234668670873c50800000000000000
+      internalID: 6644921021757665952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_114
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ca2e2651f1a5e30800000000000000
+      internalID: 4492937754969287751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_115
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d192a695a187c10800000000000000
+      internalID: 2051418601602751752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_116
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b89b9a64ace93f0800000000000000
+      internalID: -892053271328748719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_117
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e88e2f479c791fe0800000000000000
+      internalID: -1217805234916652832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_118
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc9b6b2630c7a9e0800000000000000
+      internalID: -1610107002872423244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_119
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12b2c34cbb158f70800000000000000
+      internalID: 9188781110123999772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_120
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edd146fdf4a30bd0800000000000000
+      internalID: -2665105143808008729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_121
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d055b6f4427bd6e40800000000000000
+      internalID: 5651374473998980365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_122
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa063dbe309bf1c20800000000000000
+      internalID: 3179463288439398575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_123
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a9be8729b320c70800000000000000
+      internalID: 8935770110936455697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_124
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe73b4242de38150800000000000000
+      internalID: 5873799078511607543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_125
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3cf5e59412bf010800000000000000
+      internalID: 1223608322760885192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_126
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9cbb4b81ce108f0800000000000000
+      internalID: -575919686471136797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_127
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92040fae287ce5de0800000000000000
+      internalID: -1342416273808539607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e6a20313005e240800000000000000
+      internalID: 4820259187431468657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_129
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b75053e2a67c7e30800000000000000
+      internalID: 4502604169434126265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_130
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7ed0c99f81c26d0800000000000000
+      internalID: -3014006590273624069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_131
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90469f9c2a3d80ae0800000000000000
+      internalID: -1582782572894002167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_132
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cbf25ecf76e3fb0800000000000000
+      internalID: -4666177828034724828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_133
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f31ba8772040c210800000000000000
+      internalID: 1351150426483528692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_134
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351a9fff86bd436b0800000000000000
+      internalID: -5317384016000081581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_135
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135652456f08f9250800000000000000
+      internalID: 5953619027869132081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_136
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e965de1e6830c5e0800000000000000
+      internalID: -1891449797880747545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_137
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06a7b4dcf89f32a0800000000000000
+      internalID: -6755512704364468721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_138
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63501f8e5464f25e0800000000000000
+      internalID: -1932248449043856074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_139
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f1ff6d2753f4920800000000000000
+      internalID: 2976656646064775048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_140
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b881fa0b8ddcf0e0800000000000000
+      internalID: -2234667725828814671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_141
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208693fff0bf6b6e0800000000000000
+      internalID: -1821992953099753470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_142
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15445b7e4837a8400800000000000000
+      internalID: 327200937598075985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_143
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e21a5567ae0c06b0800000000000000
+      internalID: -5328868146963410201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6718f92866cd35f0800000000000000
+      internalID: -775245410154834066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_145
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90728d41359b00d00800000000000000
+      internalID: 936952488976197385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_146
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9f9e7cb75eb2d30800000000000000
+      internalID: 4407868980109900282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_147
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f518258db43c1a0800000000000000
+      internalID: -6790500420675346591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_148
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c633880627c83f60800000000000000
+      internalID: 8014374503071299266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_149
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6f1dbc4a43065e0800000000000000
+      internalID: -1918475558861015328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_150
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14011644e2d705d0800000000000000
+      internalID: -3096274340924029923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_151
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a564367f8b24dac0800000000000000
+      internalID: -3831389487821986391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_152
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7e8376075ec0f90800000000000000
+      internalID: -6985956651027601493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_153
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7276b940ef77ca1f0800000000000000
+      internalID: -1032318281691994329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_154
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a25a690ee642b60800000000000000
+      internalID: 7720417572099009115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_155
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b2fd1180c0d1ad0800000000000000
+      internalID: -2730012570317542535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_156
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314349505117a20d0800000000000000
+      internalID: -3446818229696842733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_157
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff358b6d4b44dc4d0800000000000000
+      internalID: -3112756223955938305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_158
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed679408df542acb0800000000000000
+      internalID: -4854240493270632738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_159
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a438c41755c82d0800000000000000
+      internalID: -3275148883901855217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c8ba76f6b99c5b0800000000000000
+      internalID: -5347572179742782453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_161
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe0c3007be33b6b0800000000000000
+      internalID: -5281808982271586571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_162
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829cb5a4d4dc4db90800000000000000
+      internalID: -7217918570924357336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_163
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b8dc9afd44a9190800000000000000
+      internalID: -7954970064379344051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_164
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa684230a83846550800000000000000
+      internalID: 6153187619676391087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_165
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f350040ce9e3c9eb0800000000000000
+      internalID: -4711822258585205441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_166
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc5b8f6f3b0b9410800000000000000
+      internalID: 1484792869230959861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_167
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4de087465a813490800000000000000
+      internalID: -7768275779065942709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_168
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9876b229eeac600800000000000000
+      internalID: 489465821083961790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_169
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93d33e1f6347bcd0800000000000000
+      internalID: -2542489320100211812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_170
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f7feec8cb7cf2d0800000000000000
+      internalID: -3243581529218121962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_171
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23dca8be621ed4330800000000000000
+      internalID: 3696858426417794354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_172
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283bf212e6daf6330800000000000000
+      internalID: 3706371706863989634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_173
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712e4af66ddcf77e0800000000000000
+      internalID: -1765466208026172905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_174
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edde6ac6f681137b0800000000000000
+      internalID: -5246385224066601506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_175
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b400830953d9450800000000000000
+      internalID: 6097088364060625709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb80ba6e4eb99cb70800000000000000
+      internalID: 8919831944408795327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_177
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53f5e52fd42809e0800000000000000
+      internalID: -1655032322226523300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_178
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6db53a50ea655350800000000000000
+      internalID: 6004823189987114348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_179
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf6e97866280dae0800000000000000
+      internalID: -1526576896805015601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_180
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43eb8c4d5a9888f30800000000000000
+      internalID: 4578060366554644020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_181
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0e1c05e127a8d70800000000000000
+      internalID: 9046168276056531131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_182
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492922688328b0f80800000000000000
+      internalID: -8139268722261847404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_183
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1934fea3ca342e010800000000000000
+      internalID: 1216609256345650065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_184
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5d8963e4c312cb0800000000000000
+      internalID: -4890561413726546486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_185
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa6d9e60850803d0800000000000000
+      internalID: -3240333882723308809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_186
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4eb6caf77651abe0800000000000000
+      internalID: -1467796930237645235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_187
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9de2c06e0d9179b0800000000000000
+      internalID: -5084109819246088805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_188
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb9d6160cb5bc7d0800000000000000
+      internalID: -2897121053456360515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_189
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e635ee62d7db990d0800000000000000
+      internalID: -3415490497162095762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_190
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0ed0830a31d27b0800000000000000
+      internalID: -5247516411960631099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_191
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d703d64ff57817c00800000000000000
+      internalID: 896646647015878781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44502bf68c8fcf30800000000000000
+      internalID: 4598048255935272010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_193
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342aede73f533a330800000000000000
+      internalID: 3720877037060006467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_194
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92008d58a600e6700800000000000000
+      internalID: 535365863215726633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_195
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d85bb63aa759d400800000000000000
+      internalID: 349406834672228563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_196
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124716a4f4e8e44a0800000000000000
+      internalID: -6607187132104477663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_197
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e9e785d435ab460800000000000000
+      internalID: 7258205341123255851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_198
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fda1412e337ec830800000000000000
+      internalID: 4093335822009478641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_199
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5dcb4e90a4e33e0800000000000000
+      internalID: -2072137372191107593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_200
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0d2e3273703f990800000000000000
+      internalID: -7353525833159225155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_201
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9497eef7dec3a1240800000000000000
+      internalID: 4763186546648971593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_202
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c40d88ee9650050800000000000000
+      internalID: 5766131371136273433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_203
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b47dc83511d8a70800000000000000
+      internalID: 8830733494886288130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_204
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a043ae61bbd4e80800000000000000
+      internalID: -8192686440024110519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_205
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369e60ebafd1638e0800000000000000
+      internalID: -1714149645400741533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_206
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3d4f52ec30cdc60800000000000000
+      internalID: 7844148834907509714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_207
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f433d3c73045370800000000000000
+      internalID: 8310271044543008627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a06578fb063c7b0800000000000000
+      internalID: -5205210368584578468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_209
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be45f2b45e4b5d40800000000000000
+      internalID: 5574135089487761072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_210
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd50bfaaa37bcc1a0800000000000000
+      internalID: -6787849075749616165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_211
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984b3e7ab10cbb2b0800000000000000
+      internalID: -5567645289300118391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_212
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e5e2f1531668c30800000000000000
+      internalID: 4361280169939197568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_213
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b8c20119bc78130800000000000000
+      internalID: 3569045053616458535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_214
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f551d31891ca7b0800000000000000
+      internalID: -5211762625908220116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_215
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a139f1c519e21b0800000000000000
+      internalID: -5679442255214863743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_216
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f858fc9117609af0800000000000000
+      internalID: -391699842235606800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_217
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27be4c31b77f04f0800000000000000
+      internalID: -860337400699766998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_218
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ffb5c02c0953f20800000000000000
+      internalID: 3401784256653688687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_219
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a57328815a54d80800000000000000
+      internalID: -8267020016286213531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_220
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5011018ea10140c60800000000000000
+      internalID: 7783363763751620869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_221
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e08262ec3d9165c0800000000000000
+      internalID: -4223922090675109660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_222
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec59cec47c0c3460800000000000000
+      internalID: 7222661598220475625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_223
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c710bea5ab4b481f0800000000000000
+      internalID: -1043510501160844932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3e8f0bc6b181540800000000000000
+      internalID: 4978759541697602478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_225
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd6c5271c414c400800000000000000
+      internalID: 343422292666904014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_226
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82374d938394d520800000000000000
+      internalID: 2725965867954680460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_227
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0858246880f22900800000000000000
+      internalID: 658352964136097802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_228
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9f1b89d6de69e20800000000000000
+      internalID: 3357131627220302253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_229
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66681e3ce6f0d5640800000000000000
+      internalID: 5070225723896202854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_230
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3da979617c45620800000000000000
+      internalID: 2762051371331670969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_231
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4051958f19a165360800000000000000
+      internalID: 7157937871991149828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_232
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a7e6c8f39b357d0800000000000000
+      internalID: -2930795249897932182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_233
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c784940a541e7d0800000000000000
+      internalID: -2890952931068576651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_234
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a91db33735334370800000000000000
+      internalID: 8305540649008830881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_235
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5061bd139476d01a0800000000000000
+      internalID: -6841698694839200251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_236
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714242cbc64af5640800000000000000
+      internalID: 5070952492362376215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_237
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4e0b64cb8f16670800000000000000
+      internalID: 8530372656739968169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_238
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d87ed818240b7b0800000000000000
+      internalID: -5210591644668687079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_239
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c22b71c21d853d0800000000000000
+      internalID: -3217591946449900396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56869b7f3eed7fef0800000000000000
+      internalID: -74345798133258139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_241
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e28a9602a4487da0800000000000000
+      internalID: -5946927845256559902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_242
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b331e8206be8699b0800000000000000
+      internalID: -5073711017808227525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_243
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ef9cc0ef98e8ca0800000000000000
+      internalID: -6012716728263770609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_244
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba482ba30e2443c0800000000000000
+      internalID: -4376322344605955408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_245
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1040788cd3a2e2f40800000000000000
+      internalID: 5705544222770660353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_246
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded1b95660eec81c0800000000000000
+      internalID: -4499960216408089107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_247
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c148c643a39a9de70800000000000000
+      internalID: 9140522986177856540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_248
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e3eb88ddab02520800000000000000
+      internalID: 2675343639302782600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_249
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a68ae32e351d4270800000000000000
+      internalID: 8236262650165233314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_250
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4435641a6ed5c690800000000000000
+      internalID: -7582409850418285490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_251
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b8cc6ddf3e86d60800000000000000
+      internalID: 7883801827082013593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_252
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8a396010b864370800000000000000
+      internalID: 8306479399253027061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_253
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe6d50fd7540ef30800000000000000
+      internalID: 4602755226378530553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_254
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c6be2809951e320800000000000000
+      internalID: 2585446138294004886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m&k_inputs_255
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f612b3fc9b00133d0800000000000000
+      internalID: -3228798659802226321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7678e2a0a55484f4fb4c1298015049a4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      m&k_inputs_0: -8443618352236624777
+      m&k_inputs_1: -7311628557360083346
+      m&k_inputs_10: -2236397361448289662
+      m&k_inputs_100: 3643738497910289044
+      m&k_inputs_101: 4667483596117876023
+      m&k_inputs_102: 3851408532378304192
+      m&k_inputs_103: -6275224287260562444
+      m&k_inputs_104: 4086305704009348786
+      m&k_inputs_105: -8943438694045579597
+      m&k_inputs_106: -6496969987050252783
+      m&k_inputs_107: -7661508726062289839
+      m&k_inputs_108: 3118417438963108049
+      m&k_inputs_109: -1959124841272256480
+      m&k_inputs_11: -2603446155766853676
+      m&k_inputs_110: 1497948287605184609
+      m&k_inputs_111: -9189057513749494437
+      m&k_inputs_112: -6932531849397789242
+      m&k_inputs_113: 6644921021757665952
+      m&k_inputs_114: 4492937754969287751
+      m&k_inputs_115: 2051418601602751752
+      m&k_inputs_116: -892053271328748719
+      m&k_inputs_117: -1217805234916652832
+      m&k_inputs_118: -1610107002872423244
+      m&k_inputs_119: 9188781110123999772
+      m&k_inputs_12: -7047513172501665828
+      m&k_inputs_120: -2665105143808008729
+      m&k_inputs_121: 5651374473998980365
+      m&k_inputs_122: 3179463288439398575
+      m&k_inputs_123: 8935770110936455697
+      m&k_inputs_124: 5873799078511607543
+      m&k_inputs_125: 1223608322760885192
+      m&k_inputs_126: -575919686471136797
+      m&k_inputs_127: -1342416273808539607
+      m&k_inputs_128: 4820259187431468657
+      m&k_inputs_129: 4502604169434126265
+      m&k_inputs_13: -5063888340171079126
+      m&k_inputs_130: -3014006590273624069
+      m&k_inputs_131: -1582782572894002167
+      m&k_inputs_132: -4666177828034724828
+      m&k_inputs_133: 1351150426483528692
+      m&k_inputs_134: -5317384016000081581
+      m&k_inputs_135: 5953619027869132081
+      m&k_inputs_136: -1891449797880747545
+      m&k_inputs_137: -6755512704364468721
+      m&k_inputs_138: -1932248449043856074
+      m&k_inputs_139: 2976656646064775048
+      m&k_inputs_14: -6587321395383590538
+      m&k_inputs_140: -2234667725828814671
+      m&k_inputs_141: -1821992953099753470
+      m&k_inputs_142: 327200937598075985
+      m&k_inputs_143: -5328868146963410201
+      m&k_inputs_144: -775245410154834066
+      m&k_inputs_145: 936952488976197385
+      m&k_inputs_146: 4407868980109900282
+      m&k_inputs_147: -6790500420675346591
+      m&k_inputs_148: 8014374503071299266
+      m&k_inputs_149: -1918475558861015328
+      m&k_inputs_15: 3993363205872518812
+      m&k_inputs_150: -3096274340924029923
+      m&k_inputs_151: -3831389487821986391
+      m&k_inputs_152: -6985956651027601493
+      m&k_inputs_153: -1032318281691994329
+      m&k_inputs_154: 7720417572099009115
+      m&k_inputs_155: -2730012570317542535
+      m&k_inputs_156: -3446818229696842733
+      m&k_inputs_157: -3112756223955938305
+      m&k_inputs_158: -4854240493270632738
+      m&k_inputs_159: -3275148883901855217
+      m&k_inputs_16: 6701540025403520516
+      m&k_inputs_160: -5347572179742782453
+      m&k_inputs_161: -5281808982271586571
+      m&k_inputs_162: -7217918570924357336
+      m&k_inputs_163: -7954970064379344051
+      m&k_inputs_164: 6153187619676391087
+      m&k_inputs_165: -4711822258585205441
+      m&k_inputs_166: 1484792869230959861
+      m&k_inputs_167: -7768275779065942709
+      m&k_inputs_168: 489465821083961790
+      m&k_inputs_169: -2542489320100211812
+      m&k_inputs_17: -1491779150710195412
+      m&k_inputs_170: -3243581529218121962
+      m&k_inputs_171: 3696858426417794354
+      m&k_inputs_172: 3706371706863989634
+      m&k_inputs_173: -1765466208026172905
+      m&k_inputs_174: -5246385224066601506
+      m&k_inputs_175: 6097088364060625709
+      m&k_inputs_176: 8919831944408795327
+      m&k_inputs_177: -1655032322226523300
+      m&k_inputs_178: 6004823189987114348
+      m&k_inputs_179: -1526576896805015601
+      m&k_inputs_18: -5558376710590078688
+      m&k_inputs_180: 4578060366554644020
+      m&k_inputs_181: 9046168276056531131
+      m&k_inputs_182: -8139268722261847404
+      m&k_inputs_183: 1216609256345650065
+      m&k_inputs_184: -4890561413726546486
+      m&k_inputs_185: -3240333882723308809
+      m&k_inputs_186: -1467796930237645235
+      m&k_inputs_187: -5084109819246088805
+      m&k_inputs_188: -2897121053456360515
+      m&k_inputs_189: -3415490497162095762
+      m&k_inputs_19: -4673637657957453930
+      m&k_inputs_190: -5247516411960631099
+      m&k_inputs_191: 896646647015878781
+      m&k_inputs_192: 4598048255935272010
+      m&k_inputs_193: 3720877037060006467
+      m&k_inputs_194: 535365863215726633
+      m&k_inputs_195: 349406834672228563
+      m&k_inputs_196: -6607187132104477663
+      m&k_inputs_197: 7258205341123255851
+      m&k_inputs_198: 4093335822009478641
+      m&k_inputs_199: -2072137372191107593
+      m&k_inputs_2: 6080031872959313895
+      m&k_inputs_20: 9059942749501384461
+      m&k_inputs_200: -7353525833159225155
+      m&k_inputs_201: 4763186546648971593
+      m&k_inputs_202: 5766131371136273433
+      m&k_inputs_203: 8830733494886288130
+      m&k_inputs_204: -8192686440024110519
+      m&k_inputs_205: -1714149645400741533
+      m&k_inputs_206: 7844148834907509714
+      m&k_inputs_207: 8310271044543008627
+      m&k_inputs_208: -5205210368584578468
+      m&k_inputs_209: 5574135089487761072
+      m&k_inputs_21: 2511963305021661621
+      m&k_inputs_210: -6787849075749616165
+      m&k_inputs_211: -5567645289300118391
+      m&k_inputs_212: 4361280169939197568
+      m&k_inputs_213: 3569045053616458535
+      m&k_inputs_214: -5211762625908220116
+      m&k_inputs_215: -5679442255214863743
+      m&k_inputs_216: -391699842235606800
+      m&k_inputs_217: -860337400699766998
+      m&k_inputs_218: 3401784256653688687
+      m&k_inputs_219: -8267020016286213531
+      m&k_inputs_22: -3928254226772460400
+      m&k_inputs_220: 7783363763751620869
+      m&k_inputs_221: -4223922090675109660
+      m&k_inputs_222: 7222661598220475625
+      m&k_inputs_223: -1043510501160844932
+      m&k_inputs_224: 4978759541697602478
+      m&k_inputs_225: 343422292666904014
+      m&k_inputs_226: 2725965867954680460
+      m&k_inputs_227: 658352964136097802
+      m&k_inputs_228: 3357131627220302253
+      m&k_inputs_229: 5070225723896202854
+      m&k_inputs_23: 8201290589330550461
+      m&k_inputs_230: 2762051371331670969
+      m&k_inputs_231: 7157937871991149828
+      m&k_inputs_232: -2930795249897932182
+      m&k_inputs_233: -2890952931068576651
+      m&k_inputs_234: 8305540649008830881
+      m&k_inputs_235: -6841698694839200251
+      m&k_inputs_236: 5070952492362376215
+      m&k_inputs_237: 8530372656739968169
+      m&k_inputs_238: -5210591644668687079
+      m&k_inputs_239: -3217591946449900396
+      m&k_inputs_24: -72477126444810737
+      m&k_inputs_240: -74345798133258139
+      m&k_inputs_241: -5946927845256559902
+      m&k_inputs_242: -5073711017808227525
+      m&k_inputs_243: -6012716728263770609
+      m&k_inputs_244: -4376322344605955408
+      m&k_inputs_245: 5705544222770660353
+      m&k_inputs_246: -4499960216408089107
+      m&k_inputs_247: 9140522986177856540
+      m&k_inputs_248: 2675343639302782600
+      m&k_inputs_249: 8236262650165233314
+      m&k_inputs_25: 2705752569606744055
+      m&k_inputs_250: -7582409850418285490
+      m&k_inputs_251: 7883801827082013593
+      m&k_inputs_252: 8306479399253027061
+      m&k_inputs_253: 4602755226378530553
+      m&k_inputs_254: 2585446138294004886
+      m&k_inputs_255: -3228798659802226321
+      m&k_inputs_26: -8798786991773862471
+      m&k_inputs_27: 5592411429620125981
+      m&k_inputs_28: 2803510391555313722
+      m&k_inputs_29: 2777097825078708714
+      m&k_inputs_3: -5904378311956309168
+      m&k_inputs_30: -4820595873009565252
+      m&k_inputs_31: -6845780275762712596
+      m&k_inputs_32: -2142398275758728291
+      m&k_inputs_33: 8776508254963515439
+      m&k_inputs_34: -5952206030038537351
+      m&k_inputs_35: -348740059689908911
+      m&k_inputs_36: 8552428771330565593
+      m&k_inputs_37: 6057413941961232383
+      m&k_inputs_38: -3511576184272498033
+      m&k_inputs_39: 3629859559511052928
+      m&k_inputs_4: -2293298813872063169
+      m&k_inputs_40: -3024555114197804972
+      m&k_inputs_41: 4029385595536727144
+      m&k_inputs_42: -5399280522483077976
+      m&k_inputs_43: -2739325543532889074
+      m&k_inputs_44: 7414797008711436165
+      m&k_inputs_45: 8755701131908538300
+      m&k_inputs_46: -4048324203344745213
+      m&k_inputs_47: -4309362065905846606
+      m&k_inputs_48: 1467906241567153004
+      m&k_inputs_49: 5911218245753041388
+      m&k_inputs_5: 6629914151022126186
+      m&k_inputs_50: -4916321274337691925
+      m&k_inputs_51: -4741814665483626657
+      m&k_inputs_52: 1807000087436569026
+      m&k_inputs_53: -2364556955776473154
+      m&k_inputs_54: 4769292071867293533
+      m&k_inputs_55: -4216434967149161907
+      m&k_inputs_56: -4940582179740786653
+      m&k_inputs_57: 5326685599796207819
+      m&k_inputs_58: 8055280100618652160
+      m&k_inputs_59: 8512498389703698775
+      m&k_inputs_6: -5839243156639647731
+      m&k_inputs_60: 6235663448750624336
+      m&k_inputs_61: 6210550965031202003
+      m&k_inputs_62: -6923475257681884838
+      m&k_inputs_63: -7586154465930972990
+      m&k_inputs_64: 3239271112395405658
+      m&k_inputs_65: 6129146164342041443
+      m&k_inputs_66: -6379023732015105735
+      m&k_inputs_67: 3076166327855054626
+      m&k_inputs_68: -2617543496066346262
+      m&k_inputs_69: -6582533823527766315
+      m&k_inputs_7: 4138337534832650784
+      m&k_inputs_70: -4204489371826085297
+      m&k_inputs_71: 6409312832660588658
+      m&k_inputs_72: 4797429451988502419
+      m&k_inputs_73: -8526357488611385006
+      m&k_inputs_74: 191732055452345046
+      m&k_inputs_75: -3774367735549156638
+      m&k_inputs_76: -3772462242050078238
+      m&k_inputs_77: 8216332361843090377
+      m&k_inputs_78: -5887351216712142695
+      m&k_inputs_79: -2125365463885577131
+      m&k_inputs_8: 5958282269636381081
+      m&k_inputs_80: 4627254735988097176
+      m&k_inputs_81: 7651957730652944250
+      m&k_inputs_82: 2780898290510648650
+      m&k_inputs_83: 7138214655287288383
+      m&k_inputs_84: 5567002111812184297
+      m&k_inputs_85: -6431155040888701532
+      m&k_inputs_86: -7768963519265125785
+      m&k_inputs_87: 8418742353746674589
+      m&k_inputs_88: -7293144337236826489
+      m&k_inputs_89: -459510291186179669
+      m&k_inputs_9: 6225820877326952531
+      m&k_inputs_90: 3899056299533087844
+      m&k_inputs_91: 8780061904318423108
+      m&k_inputs_92: -4722257430094584759
+      m&k_inputs_93: 692302338749317885
+      m&k_inputs_94: -4241385507916481867
+      m&k_inputs_95: 6172532224254742686
+      m&k_inputs_96: 2075485427970265545
+      m&k_inputs_97: 2981312418595331158
+      m&k_inputs_98: -7565292173526417949
+      m&k_inputs_99: -8837252897479253275
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
