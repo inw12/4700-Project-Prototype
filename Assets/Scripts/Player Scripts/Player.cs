@@ -1,27 +1,25 @@
 using System.Collections;
 using UnityEngine;
 
-public enum PlayerState
-{
-    idle,
-    moving,
-    stagger
-}
-
+[RequireComponent(typeof(Player))]
+[RequireComponent(typeof(PlayerControls))]
 public class Player : MonoBehaviour
 {
-    public PlayerState currentState;
     public static Player Instance { get; private set; }
     public bool FacingLeft { get { return isFacingLeft; } set { isFacingLeft = value; } }
 
     [SerializeField] private FloatValue HP;
-    [SerializeField] private Signal playerHealthSignal;
+    [SerializeField] private Signal damageTakenSignal;
+    [SerializeField] private Signal deathSignal;
+    [SerializeField] private BoxCollider2D hurtbox;
     [SerializeField] private FloatValue moveSpeed;
+
     [SerializeField] private FloatValue dashSpeed;
+    [SerializeField] private AudioSource dashSFX;
     [SerializeField] private TrailRenderer trailRenderer;
-    [SerializeField] private Collider2D hurtbox;
 
     private PlayerControls playerControls;
+    private Camera mainCamera;
     private Vector2 movement;
     private Rigidbody2D myRigidBody;
     private Animator myAnimator;
@@ -30,21 +28,33 @@ public class Player : MonoBehaviour
     private Flash flash;
     private bool isFacingLeft = false;
     private bool isDashing = false;
+    private System.Action<UnityEngine.InputSystem.InputAction.CallbackContext> inputCallback;
 
-    private void Awake()
-    {
+    private readonly float dashDuration = 0.12f;
+    private readonly float dashCooldown = 0.35f;
+
+
+    private void Awake() {
         Instance = this;
+        HP.ResetRuntimeValue();
         playerControls = new PlayerControls();
-        currentState = PlayerState.idle;
+        mainCamera = Camera.main;
         myRigidBody = GetComponent<Rigidbody2D>();
         myAnimator = GetComponent<Animator>();
         mySpriteRenderer = GetComponent<SpriteRenderer>();
         knockback = GetComponent<Knockback>();
         flash = GetComponent<Flash>();
+        inputCallback = ctx => Dash(); 
     }
 
     private void OnEnable() {
         playerControls.Enable();
+        playerControls.Movement.Dash.performed += inputCallback; 
+    }
+
+    private void OnDisable() {
+        playerControls.Movement.Dash.performed -= inputCallback; 
+        playerControls.Disable();
     }
 
     private void Start() {
@@ -56,9 +66,13 @@ public class Player : MonoBehaviour
     }
 
     private void FixedUpdate() {
+        // Dis-allow movement if player is getting knocked back
         if (knockback.GettingKnockedBack) return;    
-        AdjustPlayerFacingDirection();
-        Move();
+        // Otherwise, trigger movement
+        else {
+            AdjustPlayerFacingDirection();
+            Move();
+        }            
     }
 
     private void PlayerInput()
@@ -72,28 +86,25 @@ public class Player : MonoBehaviour
         }
        else {
             myAnimator.SetBool("isMoving", false);
-        }
-        
+        } 
     }
 
     private void Move() {
         myRigidBody.MovePosition(myRigidBody.position + movement * (moveSpeed.runtimeValue * Time.fixedDeltaTime));
     }
 
-    private void Dash()
-    {
+    private void Dash() {
         if (!isDashing) {
-            isDashing = true;
-            moveSpeed.runtimeValue = dashSpeed.value;
-            trailRenderer.emitting = true;
             StartCoroutine(DashRoutine());
         }
     }
 
     private void AdjustPlayerFacingDirection()
     {
+        if (!mainCamera) return;
+
         Vector3 mousePos = Input.mousePosition;
-        Vector3 playerScreenPoint = Camera.main.WorldToScreenPoint(transform.position);
+        Vector3 playerScreenPoint = mainCamera.WorldToScreenPoint(transform.position);
 
         if (mousePos.x < playerScreenPoint.x) {
             mySpriteRenderer.flipX = true;
@@ -107,30 +118,35 @@ public class Player : MonoBehaviour
     public void TakeDamage(float damageReceived, float knockbackThrust, float knockbackDuration)
     {
         HP.runtimeValue -= damageReceived;
-        playerHealthSignal.Raise();
-        knockback.TriggerKnockback(Enemy.Instance.transform, knockbackThrust, knockbackDuration);
-        StartCoroutine(flash.FlashRoutine());
+        if (damageTakenSignal) damageTakenSignal.Raise();
+        if (Enemy.Instance) knockback.TriggerKnockback(Enemy.Instance.transform, knockbackThrust, knockbackDuration);
+        StartCoroutine(flash.WhiteFlashRoutine());
         CheckForDeath();
     }
 
-    public void CheckForDeath() {
+    private void CheckForDeath() {
         if (HP.runtimeValue <= 0) {
-            Destroy(gameObject);
+            if (deathSignal) deathSignal.Raise();
+            Time.timeScale = 0f;
+            gameObject.SetActive(false);
         }
     }
 
     private IEnumerator DashRoutine()
     {
         // Initiate Dash
-        float dashTime = .08f;
-        float dashCD = .24f;
+        isDashing = true;
         hurtbox.enabled = false;
-        yield return new WaitForSeconds(dashTime);
+        if (dashSFX) dashSFX.Play();
+        moveSpeed.runtimeValue = dashSpeed.value;
+        trailRenderer.emitting = true;
+        yield return new WaitForSeconds(dashDuration);
+        
         // End Dash
+        hurtbox.enabled = true;
         moveSpeed.runtimeValue = moveSpeed.value;
         trailRenderer.emitting = false;
-        hurtbox.enabled = true;
-        yield return new WaitForSeconds(dashCD);
+        yield return new WaitForSeconds(dashCooldown);
         isDashing = false;
     }
 }

@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88a25085b15f9479f8e1b91fdcb9dfac, type: 3}
   m_Name: TestDummyHP
   m_EditorClassIdentifier: 
-  value: 10
+  value: 5

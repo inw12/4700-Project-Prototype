@@ -1,17 +1,26 @@
+using System;
 using UnityEngine;
 
 [CreateAssetMenu]
 public class MinMaxVectorValue : ScriptableObject, ISerializationCallbackReceiver
 {
-    public Vector2 max;
-    public Vector2 min;
-    public Vector2 defaultMax;
-    public Vector2 defaultMin;
+    [SerializeField] private Vector2 defaultMax;
+    [SerializeField] private Vector2 defaultMin;
+    [NonSerialized] public Vector2 runtimeMax;
+    [NonSerialized] public Vector2 runtimeMin;
+
+    private void OnEnable() {
+        ResetRuntimeValues();
+    }
+
+    public void ResetRuntimeValues() {
+        runtimeMax = defaultMax;
+        runtimeMin = defaultMin;
+    }
 
     public void OnAfterDeserialize() {
-        max = defaultMax;
-        min = defaultMin;
+        ResetRuntimeValues();
     }
-    public void OnBeforeSerialize() {}
 
+    public void OnBeforeSerialize() {}
 }

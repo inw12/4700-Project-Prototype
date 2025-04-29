@@ -1,19 +1,22 @@
 using System;
 using UnityEngine;
 
-// • A script INDEPENDENT from objects in the scene
-// • Basically a custom class
-
-[CreateAssetMenu]   // Creates this script as an object
+[CreateAssetMenu]   
 public class FloatValue : ScriptableObject, ISerializationCallbackReceiver
 {
     public float value;
-
     [NonSerialized] public float runtimeValue;
 
-    public void OnAfterDeserialize()    // what values to retain/reset when game ends
-    {
+    private void OnEnable() {
+        ResetRuntimeValue();
+    }
+
+    public void ResetRuntimeValue() {
         runtimeValue = value;
+    }
+
+    public void OnAfterDeserialize() {
+        ResetRuntimeValue();
     } 
 
     public void OnBeforeSerialize() {}

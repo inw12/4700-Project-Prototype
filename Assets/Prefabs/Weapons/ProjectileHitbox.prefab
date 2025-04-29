@@ -32,7 +32,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.154, y: 0, z: -0.13596848}
-  m_LocalScale: {x: 0.75, y: 0.75, z: 1}
+  m_LocalScale: {x: 1.1, y: 1.1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -81,8 +81,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 5632102984726928973, guid: be424316cc2f9467694a00c12bb29071, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Sprite: {fileID: -3075781409875793168, guid: ef1b9874c97c343989a34c056624e334, type: 3}
+  m_Color: {r: 0.9009434, g: 0.9009434, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -102,7 +102,7 @@ Animator:
   m_GameObject: {fileID: 7390120736167677693}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 93a960bd639764e6589c3a29fc3962c3, type: 2}
+  m_Controller: {fileID: 9100000, guid: 3c0f0e43b11004296a238da7bc180e59, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -148,8 +148,8 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.0063556037, y: 0.0039199195}
-  m_Radius: 0.28732878
+  m_Offset: {x: 0.0026985258, y: -0.0003966391}
+  m_Radius: 0.21998489
 --- !u!50 &4790210223437075458
 Rigidbody2D:
   serializedVersion: 5
@@ -202,6 +202,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   damage: {fileID: 11400000, guid: b5c9af86bb46b46649e04a95fd1182d5, type: 2}
-  projectileSpd: 16
-  knockbackThrust: 3
+  projectileSpd: 6
+  knockbackThrust: 2
   knockbackDuration: 0.1
