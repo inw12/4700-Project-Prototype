@@ -1797,6 +1797,78 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 71250345842310903, guid: 80aa96c137e5945d9a7c0b53f6198569, type: 3}
+      propertyPath: m_Tiles.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 71250345842310903, guid: 80aa96c137e5945d9a7c0b53f6198569, type: 3}
+      propertyPath: m_Tiles.Array.data[0].first.x
+      value: -10
+      objectReference: {fileID: 0}
+    - target: {fileID: 71250345842310903, guid: 80aa96c137e5945d9a7c0b53f6198569, type: 3}
+      propertyPath: m_Tiles.Array.data[0].first.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 71250345842310903, guid: 80aa96c137e5945d9a7c0b53f6198569, type: 3}
+      propertyPath: m_Tiles.Array.data[1].first.x
+      value: -10
+      objectReference: {fileID: 0}
+    - target: {fileID: 71250345842310903, guid: 80aa96c137e5945d9a7c0b53f6198569, type: 3}
+      propertyPath: m_TileAssetArray.Array.data[34].m_Data
+      value: 
+      objectReference: {fileID: 11400000, guid: 1cf87a26fdda7477a9488b9d7967b182, type: 2}
+    - target: {fileID: 71250345842310903, guid: 80aa96c137e5945d9a7c0b53f6198569, type: 3}
+      propertyPath: m_TileSpriteArray.Array.data[34].m_Data
+      value: 
+      objectReference: {fileID: -8474740879727053552, guid: 0063ca8edca57415ca46f6fbd6529cde, type: 3}
+    - target: {fileID: 71250345842310903, guid: 80aa96c137e5945d9a7c0b53f6198569, type: 3}
+      propertyPath: m_Tiles.Array.data[0].second.m_TileIndex
+      value: 34
+      objectReference: {fileID: 0}
+    - target: {fileID: 71250345842310903, guid: 80aa96c137e5945d9a7c0b53f6198569, type: 3}
+      propertyPath: m_Tiles.Array.data[1].second.m_TileIndex
+      value: 34
+      objectReference: {fileID: 0}
+    - target: {fileID: 71250345842310903, guid: 80aa96c137e5945d9a7c0b53f6198569, type: 3}
+      propertyPath: m_TileColorArray.Array.data[0].m_RefCount
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 71250345842310903, guid: 80aa96c137e5945d9a7c0b53f6198569, type: 3}
+      propertyPath: m_TileAssetArray.Array.data[34].m_RefCount
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 71250345842310903, guid: 80aa96c137e5945d9a7c0b53f6198569, type: 3}
+      propertyPath: m_TileMatrixArray.Array.data[0].m_RefCount
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 71250345842310903, guid: 80aa96c137e5945d9a7c0b53f6198569, type: 3}
+      propertyPath: m_TileSpriteArray.Array.data[34].m_RefCount
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 71250345842310903, guid: 80aa96c137e5945d9a7c0b53f6198569, type: 3}
+      propertyPath: m_Tiles.Array.data[0].second.m_AllTileFlags
+      value: 2147483649
+      objectReference: {fileID: 0}
+    - target: {fileID: 71250345842310903, guid: 80aa96c137e5945d9a7c0b53f6198569, type: 3}
+      propertyPath: m_Tiles.Array.data[1].second.m_AllTileFlags
+      value: 2147483649
+      objectReference: {fileID: 0}
+    - target: {fileID: 71250345842310903, guid: 80aa96c137e5945d9a7c0b53f6198569, type: 3}
+      propertyPath: m_Tiles.Array.data[0].second.m_TileSpriteIndex
+      value: 34
+      objectReference: {fileID: 0}
+    - target: {fileID: 71250345842310903, guid: 80aa96c137e5945d9a7c0b53f6198569, type: 3}
+      propertyPath: m_Tiles.Array.data[1].second.m_TileSpriteIndex
+      value: 34
+      objectReference: {fileID: 0}
+    - target: {fileID: 71250345842310903, guid: 80aa96c137e5945d9a7c0b53f6198569, type: 3}
+      propertyPath: m_Tiles.Array.data[0].second.m_TileObjectToInstantiateIndex
+      value: 65535
+      objectReference: {fileID: 0}
+    - target: {fileID: 71250345842310903, guid: 80aa96c137e5945d9a7c0b53f6198569, type: 3}
+      propertyPath: m_Tiles.Array.data[1].second.m_TileObjectToInstantiateIndex
+      value: 65535
+      objectReference: {fileID: 0}
     - target: {fileID: 2737838040301205720, guid: 80aa96c137e5945d9a7c0b53f6198569, type: 3}
       propertyPath: m_Tiles.Array.size
       value: 62
